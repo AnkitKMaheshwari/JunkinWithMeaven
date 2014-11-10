@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+<suite name="A">
+<test name="FirefoxTest">
+<classes>
+<class name="p1.GoogleFstLinkTest"></class>
+</classes>
+</test>
+
+
+ 
+</suite>
